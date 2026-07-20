@@ -1,0 +1,6 @@
+{
+  "name": "AI Spark",
+  "description": "An premium, adaptive AI suite with an immersive website-like sidebar, featuring a Direct Gemini Chatbot, AI Image Generator, AI Video Generator, User Sign-Up, Trial Tracker, and Premium Unlock features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
